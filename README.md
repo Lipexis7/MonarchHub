@@ -2515,21 +2515,21 @@ local Window = OrionLib:MakeWindow({Name = "Monarch Hub", HidePremium = false, I
 OrionLib:MakeNotification({
 	Name = "Monarch Hub",
 	Content = "Choose Teams Bro?",
-	Image = "rbxassetid://102982051381441",
+	Image = "rbxassetid://17690826728",
 	Time = 7
 })
 
 OrionLib:MakeNotification({
 	Name = "Monarch Hub",
 	Content = "Monarch Hub",
-	Image = "rbxassetid://102982051381441",
+	Image = "rbxassetid://17690826728",
 	Time = 25
 })
 
 OrionLib:MakeNotification({
     Name = "Monarch Hub",
     Content = "Please Wait loading script...,Do not enable any function",
-    Image = "rbxassetid://102982051381441",
+    Image = "rbxassetid://17690826728",
     Time = 5
 })
 
@@ -2537,85 +2537,85 @@ OrionLib:MakeNotification({
 
 local W = Window:MakeTab({
     Name = "Welcome",
-    Icon = "rbxassetid://102982051381441",
+    Icon = "rbxassetid://17690826728",
     PremiumOnly = false
 })
 
 local M = Window:MakeTab({
     Name = "General",
-    Icon = "rbxassetid://102982051381441",
+    Icon = "rbxassetid://17690826728",
     PremiumOnly = false
 })
 
 local ST = Window:MakeTab({
     Name = "Setting",
-    Icon = "rbxassetid://102982051381441",
+    Icon = "rbxassetid://17690826728",
     PremiumOnly = false
 })
 
 local IQ = Window:MakeTab({
     Name = "Item & Quest",
-    Icon = "rbxassetid://102982051381441",
+    Icon = "rbxassetid://17690826728",
     PremiumOnly = false
 })
 
 local S = Window:MakeTab({
     Name = "Stats",
-    Icon = "rbxassetid://102982051381441",
+    Icon = "rbxassetid://17690826728",
     PremiumOnly = false
 })
 
 local E = Window:MakeTab({
     Name = "ESP",
-    Icon = "rbxassetid://102982051381441",
+    Icon = "rbxassetid://17690826728",
     PremiumOnly = false
 })
 
 local RA = Window:MakeTab({
     Name = "Raid",
-    Icon = "rbxassetid://102982051381441",
+    Icon = "rbxassetid://17690826728",
     PremiumOnly = false
 })
 
 local LC = Window:MakeTab({
     Name = "Local Players",
-    Icon = "rbxassetid://102982051381441",
+    Icon = "rbxassetid://17690826728",
     PremiumOnly = false
 })
 
 local Wld = Window:MakeTab({
     Name = "World Teleport",
-    Icon = "rbxassetid://102982051381441",
+    Icon = "rbxassetid://17690826728",
     PremiumOnly = false
 })
 
 local SV = Window:MakeTab({
     Name = "Status Sever",
-    Icon = "rbxassetid://102982051381441",
+    Icon = "rbxassetid://17690826728",
     PremiumOnly = false
 })
 
 local D = Window:MakeTab({
     Name = "Devil Fruit",
-    Icon = "rbxassetid://102982051381441",
+    Icon = "rbxassetid://17690826728",
     PremiumOnly = false
 })
 
 local R = Window:MakeTab({
     Name = "Race V4",
-    Icon = "rbxassetid://102982051381441",
+    Icon = "rbxassetid://17690826728",
     PremiumOnly = false
 })
 
 local SH = Window:MakeTab({
     Name = "Shop",
-    Icon = "rbxassetid://102982051381441",
+    Icon = "rbxassetid://17690826728",
     PremiumOnly = false
 })
 
 local C = Window:MakeTab({
     Name = "Misc",
-    Icon = "rbxassetid://102982051381441",
+    Icon = "rbxassetid://17690826728",
     PremiumOnly = false
 })
 
@@ -8339,13 +8339,13 @@ pcall(function()
                 OrionLib:MakeNotification({
                     Name = "Monarch Hub(Noitification)",
                     Content = "[EN] : Please cancel the farrm level quest (if any)",
-                    Image = "rbxassetid://102982051381441",
+                    Image = "rbxassetid://17690826728",
                     Time = 9
                 })
                 OrionLib:MakeNotification({
                     Name = "Monarch Hub(Noitification)",
                     Content = "[VN] : Làm ơn hủy nhiệm vụ farrm level(nếu có)",
-                    Image = "rbxassetid://102982051381441",
+                    Image = "rbxassetid://17690826728",
                     Time = 9
                 })
             end
@@ -8663,7 +8663,7 @@ spawn(function()
             OrionLib:MakeNotification({
                 Name = "Monarch Hub",
                 Content = "You not have beli or fragment!",
-                Image = "rbxassetid://102982051381441",
+                Image = "rbxassetid://17690826728",
                 Time = 5
             })
             end
@@ -11285,7 +11285,7 @@ spawn(function()
                 OrionLib:MakeNotification({
                     Name = "Monarch Hub",
                     Content = "Turn Off Hop Find Moon Please",
-                    Image = "rbxassetid://102982051381441",
+                    Image = "rbxassetid://17690826728",
                     Time = 5
                 })
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709143733" then
@@ -11293,7 +11293,7 @@ spawn(function()
                 OrionLib:MakeNotification({
                     Name = "Monarch Hub",
                     Content = "Hop Server",
-                    Image = "rbxassetid://102982051381441",
+                    Image = "rbxassetid://17690826728",
                     Time = 5
                 })
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709150401" then
@@ -11301,7 +11301,7 @@ spawn(function()
                 OrionLib:MakeNotification({
                     Name = "Monarch Hub",
                     Content = "Hop Server",
-                    Image = "rbxassetid://102982051381441",
+                    Image = "rbxassetid://17690826728",
                     Time = 5
                 })
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149680" then
@@ -11309,7 +11309,7 @@ spawn(function()
                 OrionLib:MakeNotification({
                     Name = "Monarch Hub",
                     Content = "Hop Server",
-                    Image = "rbxassetid://102982051381441",
+                    Image = "rbxassetid://17690826728",
                     Time = 5
                 })
             else
@@ -11322,7 +11322,7 @@ spawn(function()
 OrionLib:MakeNotification({
         Name = "Monarch Hub",
         Content = "Loading script complete!, You can now enable the function!",
-        Image = "rbxassetid://102982051381441",
+        Image = "rbxassetid://17690826728",
         Time = 5
     })
 
@@ -11365,6 +11365,6 @@ OrionLib:Init()
 OrionLib:MakeNotification({
     Name = "Monarch Hub",
     Content = "Loading Config Complete!!",
-    Image = "rbxassetid://102982051381441",
+    Image = "rbxassetid://17690826728",
     Time = 5
 })
